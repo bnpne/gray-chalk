@@ -13,9 +13,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "gray-chalk",
+                "label": "gray-chalk-dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/gray-chalk-dark-theme.json"
+            },
+            {
+                "label": "gray-chalk-light",
+                "uiTheme": "vs",
+                "path": "./themes/gray-chalk-light-theme.json"
             }
         ]
     }
