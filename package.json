@@ -1,0 +1,22 @@
+{
+    "name": "gray-chalk",
+    "displayName": "gray-chalk",
+    "description": "",
+    "version": "0.0.1",
+    "author": "@bnpneio",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "gray-chalk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gray-chalk-color-theme.json"
+            }
+        ]
+    }
+}
