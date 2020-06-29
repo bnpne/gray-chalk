@@ -159,7 +159,6 @@
 			],
 			"settings": {
 				"foreground": "#FEB2B2"
-				// F56565
 			}
 		},
 		{
@@ -207,7 +206,7 @@
 			],
 			"settings": {
 				"foreground": "#F56565"
-				// FEB2B2
+				
 			}
 		},
 		{
@@ -404,7 +403,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#E53E3E"
+				"foreground": "#FAF089"
 			}
 		},
 		{

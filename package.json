@@ -15,7 +15,7 @@
             {
                 "label": "gray-chalk",
                 "uiTheme": "vs-dark",
-                "path": "./themes/gray-chalk-color-theme.json"
+                "path": "./themes/gray-chalk-dark-theme.json"
             }
         ]
     }
