@@ -1,33 +1,4 @@
 {
-<<<<<<< HEAD
-    "name": "gray-chalk",
-    "displayName": "gray-chalk",
-    "description": "",
-    "version": "0.0.1",
-    "author": "@bnpneio",
-    "publisher": "BenPaine",
-    "repository": "https://github.com/bnpne/gray-chalk",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "gray-chalk-dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/gray-chalk-dark-theme.json"
-            },
-            {
-                "label": "gray-chalk-light",
-                "uiTheme": "vs",
-                "path": "./themes/gray-chalk-light-theme.json"
-            }
-        ]
-    }
-=======
 	"name": "gray-chalk",
 	"displayName": "gray-chalk",
 	"description": "",
@@ -49,7 +20,7 @@
 				"path": "./themes/gray-chalk-dark-theme.json"
 			},
 			{
-				"label": "gray-light",
+				"label": "gray-chalk-light",
 				"uiTheme": "vs",
 				"path": "./themes/gray-chalk-light-theme.json"
 			}
@@ -60,5 +31,4 @@
 		"publisherDisplayName": "Ben Paine",
 		"publisherId": "412c1151-ac24-4cc6-b3db-ea9aa88449d8"
 	}
->>>>>>> c763ca4b92066ff7d66d52a18dfe99d42d3667ac
 }
