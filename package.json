@@ -4,6 +4,8 @@
     "description": "",
     "version": "0.0.1",
     "author": "@bnpneio",
+    "publisher": "BenPaine",
+    "repository": "https://github.com/bnpne/gray-chalk",
     "engines": {
         "vscode": "^1.46.0"
     },
