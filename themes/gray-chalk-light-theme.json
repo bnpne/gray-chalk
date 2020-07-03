@@ -403,11 +403,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/gray-chalk-dark-theme.json
-				"foreground": "#FAF089"
-=======
 				"foreground": "#F6E05E"
->>>>>>> a826d12fd3265e2201e22fdf0c04990528474443:themes/gray-chalk-dark-theme.json
 			}
 		},
 		{
@@ -669,5 +665,5 @@
 				"foreground": "#F7FAFC"
 			}
 		}
-	],
+	]
 }
